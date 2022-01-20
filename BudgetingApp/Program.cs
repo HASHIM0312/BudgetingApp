@@ -9,10 +9,10 @@ class Program
     public static void Main(string[] args)
     {
         //Defining variables for calling methods
-        string callTransaction = "transaction";
-        string callDeposit = "Deposit";
-        string Quit = "Quit";
-        string search = "Search";
+        string callTransaction = "t";
+        string callDeposit = "d";
+        string Quit = "q";
+        string search = "s";
 
         //Self Explanatory
         Console.WriteLine("Input how many accounts you would like to input");

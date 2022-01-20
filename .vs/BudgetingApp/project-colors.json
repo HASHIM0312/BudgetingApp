@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3690bb04-8b99-46d4-a534-958d0568febb": {
+      "ProjectGuid": "3690bb04-8b99-46d4-a534-958d0568febb",
+      "DisplayName": "BudgetingApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

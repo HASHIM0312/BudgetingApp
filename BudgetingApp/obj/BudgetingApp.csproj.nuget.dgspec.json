@@ -4,6 +4,60 @@
     "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetingApp\\BudgetingApp.csproj": {}
   },
   "projects": {
+    "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj",
+        "projectName": "BudgetAppClassLibrary",
+        "projectPath": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\hashi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetingApp\\BudgetingApp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +81,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

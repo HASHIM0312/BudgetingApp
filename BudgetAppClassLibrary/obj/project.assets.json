@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "BudgetAppClassLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/BudgetAppClassLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BudgetAppClassLibrary.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "BudgetAppClassLibrary/1.0.0": {
-      "type": "project",
-      "path": "../BudgetAppClassLibrary/BudgetAppClassLibrary.csproj",
-      "msbuildProject": "../BudgetAppClassLibrary/BudgetAppClassLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "BudgetAppClassLibrary >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\hashi\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetingApp\\BudgetingApp.csproj",
-      "projectName": "BudgetingApp",
-      "projectPath": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetingApp\\BudgetingApp.csproj",
+      "projectUniqueName": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj",
+      "projectName": "BudgetAppClassLibrary",
+      "projectPath": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj",
       "packagesPath": "C:\\Users\\hashi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetingApp\\obj\\",
+      "outputPath": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hashi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\hashi\\source\\repos\\BudgetingApp\\BudgetAppClassLibrary\\BudgetAppClassLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -1,0 +1,12 @@
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\bin\Debug\net6.0\BudgetAppClassLibrary.deps.json
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\bin\Debug\net6.0\BudgetAppClassLibrary.dll
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\bin\Debug\net6.0\ref\BudgetAppClassLibrary.dll
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\bin\Debug\net6.0\BudgetAppClassLibrary.pdb
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\obj\Debug\net6.0\BudgetAppClassLibrary.csproj.AssemblyReference.cache
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\obj\Debug\net6.0\BudgetAppClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\obj\Debug\net6.0\BudgetAppClassLibrary.AssemblyInfoInputs.cache
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\obj\Debug\net6.0\BudgetAppClassLibrary.AssemblyInfo.cs
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\obj\Debug\net6.0\BudgetAppClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\obj\Debug\net6.0\BudgetAppClassLibrary.dll
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\obj\Debug\net6.0\ref\BudgetAppClassLibrary.dll
+C:\Users\hashi\source\repos\BudgetingApp\BudgetAppClassLibrary\obj\Debug\net6.0\BudgetAppClassLibrary.pdb
